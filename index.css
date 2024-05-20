@@ -1,0 +1,168 @@
+.home-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  position: relative;
+}
+
+.text-container {
+  position: relative; /* Mude para relative */
+  top: center; /* Ajuste conforme necessário */
+  color: var(--dl-color-gray-black);
+  font-size: 70px;
+  font-style: normal;
+  text-align: center;
+  font-family: "Poppins ExtraBold";
+  z-index: 2;
+}
+
+.home-text {
+  color: var(--dl-color-gray-black);
+  height: auto;
+  font-size: 70px;
+  font-style: normal;
+  text-align: center;
+  font-family: "Poppins ExtraBold";
+}
+
+.home-pasted-image {
+  top: 41px;
+  right: -6px;
+  width: 576px;
+  height: 378px;
+  position: absolute;
+  margin-left: var(--dl-space-space-oneandhalfunits);
+  padding-left: 38px;
+}
+.home-pasted-image01 {
+  left: -1px;
+  width: 1600px;
+  bottom: -6px;
+  height: 241px;
+  position: absolute;
+}
+.home-pasted-image02 {
+  top: 297px;
+  left: 1163px;
+  width: 365px;
+  height: 527px;
+  position: absolute;
+}
+.home-pasted-image03 {
+  left: -8px;
+  width: 347px;
+  bottom: -10px;
+  height: 421px;
+  position: absolute;
+}
+.home-pasted-image04 {
+  top: 210px;
+  left: 443px;
+  width: 448px;
+  height: 251px;
+  position: absolute;
+}
+.home-pasted-image05 {
+  right: 0px;
+  width: 462px;
+  bottom: -16px;
+  height: 211px;
+  position: absolute;
+}
+.home-pasted-image06 {
+  left: -44px;
+  width: 189px;
+  bottom: 48px;
+  height: 453px;
+  position: absolute;
+  margin-right: 38px;
+}
+.home-pasted-image07 {
+  top: -5px;
+  right: -1px;
+  width: 515px;
+  height: 218px;
+  position: absolute;
+}
+.home-pasted-image08 {
+  top: 197px;
+  left: -12px;
+  width: 317px;
+  height: 308px;
+  position: absolute;
+}
+.home-video {
+  top: 367px;
+  left: 286px;
+  width: 455px;
+  height: 480px;
+  position: absolute;
+}
+.home-pasted-image09 {
+  top: 193px;
+  left: 295px;
+  width: 232px;
+  height: 193px;
+  position: absolute;
+}
+.home-pasted-image10 {
+  top: -7px;
+  left: -1px;
+  width: 688px;
+  height: 200px;
+  position: absolute;
+}
+.home-pasted-image11 {
+  top: -4px;
+  left: 488px;
+  width: 386px;
+  height: 272px;
+  position: absolute;
+  margin-left: var(--dl-space-space-unit);
+}
+.home-pasted-image12 {
+  top: 413px;
+  left: 147px;
+  width: 169px;
+  height: 260px;
+  position: absolute;
+}
+.home-pasted-image13 {
+  top: -51px;
+  left: 1057px;
+  width: 345px;
+  height: 466px;
+  position: absolute;
+}
+.home-pasted-image14 {
+  left: 571px;
+  width: 670px;
+  bottom: 224px;
+  height: 228px;
+  position: absolute;
+}
+.home-pasted-image15 {
+  top: 0px;
+  left: 827px;
+  width: 367px;
+  height: 424px;
+  position: absolute;
+}
+.home-pasted-image16 {
+  left: 1198px;
+  width: 276px;
+  bottom: -38px;
+  height: 283px;
+  position: absolute;
+}
+.home-pasted-image17 {
+  top: 404px;
+  right: -7px;
+  width: 445px;
+  height: 417px;
+  position: absolute;
+}
